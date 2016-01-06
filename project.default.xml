@@ -1,0 +1,118 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="Git.Settings">
+        <option name="ROOT_SYNC" value="DONT_SYNC" />
+      </component>
+      <component name="IssueNavigationConfiguration">
+        <option name="links">
+          <list>
+            <IssueNavigationLink>
+              <option name="issueRegexp" value="#(\d+)" />
+              <option name="linkRegexp" value="https://drupal.org/node/$1" />
+            </IssueNavigationLink>
+            <IssueNavigationLink>
+              <option name="issueRegexp" value="https?://www.drupal.org/node/(\d+)" />
+              <option name="linkRegexp" value="https://www.drupal.org/node/$1" />
+            </IssueNavigationLink>
+          </list>
+        </option>
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="henrik" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Bitwise operation issuesJavaScript</id>
+              </State>
+              <State>
+                <id>GeneralJavaScript</id>
+              </State>
+              <State>
+                <id>HTML</id>
+              </State>
+              <State>
+                <id>JavaScript</id>
+              </State>
+              <State>
+                <id>PHP</id>
+              </State>
+              <State>
+                <id>Potentially confusing code constructsJavaScript</id>
+              </State>
+              <State>
+                <id>Probable bugsJavaScript</id>
+              </State>
+              <State>
+                <id>Probable bugsPHP</id>
+              </State>
+              <State>
+                <id>SQL</id>
+              </State>
+              <State>
+                <id>XPath</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Blade files</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+        <OptionsSetting value="true" id="Add" />
+        <OptionsSetting value="true" id="Remove" />
+        <OptionsSetting value="true" id="Checkout" />
+        <OptionsSetting value="true" id="Update" />
+        <OptionsSetting value="true" id="Status" />
+        <OptionsSetting value="true" id="Edit" />
+        <ConfirmationsSetting value="0" id="Add" />
+        <ConfirmationsSetting value="0" id="Remove" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="settings.github" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+      </component>
+      <component name="PublishConfigData" autoUpload="Always" promptOnRemoteOverwrite="CHECK_CONTENT" createEmptyFolders="true" exclude=".svn;.cvs;.idea;.DS_Store;.git;.hg;.swp" autoUploadExternalChanges="true" notifyRemoteChanges="true">
+        <option name="myAutoUpload" value="ALWAYS" />
+      </component>
+      <component name="VagrantProjectSettings">
+        <option name="instanceFolder" value="" />
+        <option name="provider" value="" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="VcsManagerConfiguration">
+        <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+        <option name="FORCE_NON_EMPTY_COMMENT" value="true" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

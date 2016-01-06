@@ -1,0 +1,20 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0f2030bd-bd21-48fd-89a3-f293bc16ac4d" name="Zyra aegir" url="http://zyra">
+        <fileTransfer host="zyra" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/aegir/active_projects/hd" accessType="SFTP" passphrase="dffedfcedfc8dfd0dfe8dfe0dfc0df93df8bdfe0dfc5dfc8dfc8dfcfdfde" username="aegir" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="e6f7b49b-c8d4-4497-b0bf-4039fd449492" name="Zyra wysiwyg" url="http://wysiwyg.ny-webb.se">
+        <fileTransfer host="zyra" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/aegir/active_projects/hd/wysiwyg_modules/wysiwyg" accessType="SFTP" passphrase="dffedfcedfc8dfd0dfe8dfe0dfc0df93df8bdfe0dfc5dfc8dfc8dfcfdfde" username="aegir" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
