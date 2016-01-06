@@ -7,8 +7,8 @@
       <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <mapping pattern="TEST" type="PLAIN_TEXT" />
       <mapping pattern="NYFIL" type="PLAIN_TEXT" />
+      <mapping pattern="TEST" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
